@@ -1,6 +1,5 @@
-[![MasterHead](https://media.discordapp.net/attachments/1212807981687644201/1309186419524243509/Venus_Development.png?ex=6762489d&is=6760f71d&hm=5e7b7eaf915aeeb7f4a1e7c274a8875b4513315a5c55c560b6a146d9b0a9d133&=&format=webp&quality=lossless&width=335&height=335)
 <h1 align="center">Hi 👋, I'm Venus</h1>
-<h3 align="center">Hello! I am a Frontend and Backend software developer. Additionally, I specialize in creating custom scripts for games.</h3>
+<h3 align="">Hello! I am a Frontend and Backend software developer. Additionally, I specialize in creating custom scripts for games.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justthevenus&show_icons=true&locale=en" alt="justthevenus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justthevenus&" alt="justthevenus" /></p>
+
