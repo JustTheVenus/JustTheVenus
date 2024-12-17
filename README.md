@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **venusdevstudio@gmail.com**
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
 
 <details>
   <summary>:zap: GitHub Stats</summary> 
