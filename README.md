@@ -1,3 +1,10 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
+
 <h1 align="center">Hi 👋, I'm Venus</h1>
 <h3 align="">Hello! I am a Frontend and Backend software developer. Additionally, I specialize in creating custom scripts for games.</h3>
 
