@@ -1,4 +1,6 @@
 
+
+
 <h1 align="center">Hi 👋, I'm Venus</h1>
 
 <h3 align="left">&nbsp; Hello! I am a Frontend and Backend software developer. Additionally, I specialize in creating custom scripts for games./h3>
@@ -7,8 +9,11 @@
 
 - 📫 How to reach me **venusdevstudio@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
 
+
+
+
+<!--
 <details>
   <summary>:zap: GitHub Stats</summary> 
 -->
@@ -30,21 +35,68 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+  <summary><h2>📸 My Latest YouTube Videos</h2></summary>
+
+
+
+
 # Github Stats
 
  <br />
- ![](https://github-profile-trophy.vercel.app/?username=CagatayAkkas&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
+ 
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/JustTheVenus/JustTheVenus/blob/main/img/Bird%20Wing%20Left.png">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustTheVenus&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="JustTheVenus" />
+    <img heigth="160" width="182" src="https://github.com/JustTheVenus/JustTheVenus/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
 
   
 <br />
 
 
+ 
+ <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/JustTheVenus/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustTheVenus&theme=material-palenight&hide_border=false" alt="JustTheVenus" width="55%" />
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/JustTheVenus/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
+ 
 
  
-  
+ <br />
  
+  
+  
+  <p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/JustTheVenus/JustTheVenus/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustTheVenus&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="JustTheVenus" />
+    <img heigth="160" width="182" src="https://github.com/JustTheVenus/JustTheVenus/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+  </a>
+</p>
+ 
+  
+  
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
+-->
+
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=JustTheVenus&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br />
+
+
+<br />
+
+
 <!--
 </details>
 -->
@@ -53,3 +105,4 @@
 <details>
    <summary>:zap: Languages and Tools</summary>
  -->
+ 
