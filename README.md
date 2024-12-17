@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Venus</h1>
 
-<h3 align="left">&nbsp; Hello! I am a Frontend and Backend software developer. Additionally, I specialize in creating custom scripts for games.</h3>
+<h3 align="left"> Hello! I am a Frontend and Backend software developer. Additionally, I specialize in creating custom scripts for games.</h3>
 
 - 🔭 I’m currently working on **.NET	Framework**
 
