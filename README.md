@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Venus</h1>
 
-<h3 align="left">&nbsp; Hello! I am a Frontend and Backend software developer. Additionally, I specialize in creating custom scripts for games./h3>
+<h3 align="left">&nbsp; Hello! I am a Frontend and Backend software developer. Additionally, I specialize in creating custom scripts for games.</h3>
 
 - 🔭 I’m currently working on **.NET	Framework**
 
@@ -34,8 +34,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-  <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 
 
