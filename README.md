@@ -1,39 +1,73 @@
+
 <h1 align="center">Hi 👋, I'm Venus</h1>
-<h3 align="">Hello! I am a Frontend and Backend software developer. Additionally, I specialize in creating custom scripts for games.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<h3 align="left">&nbsp; Hello! I am a Frontend and Backend software developer. Additionally, I specialize in creating custom scripts for games./h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align: middle;"/>
-  </a><a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="vertical-align: middle;"/>
-  </a>
-</p>
+- 🔭 I’m currently working on **.NET	Framework**
+
+- 📫 How to reach me **venusdevstudio@gmail.com**
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JustTheVenus?theme=unicorn)](https://leetcode.com/JustTheVenus/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justthevenus&show_icons=true&locale=en&layout=compact" alt="justthevenus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justthevenus&show_icons=true&locale=en" alt="justthevenus" /></p>
+
+<!--
+<details>
+  <summary>:zap: GitHub Stats</summary> 
+-->
+# 💻 Languages and Tools:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&style=for-the-badge&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# Github Stats
+
+ <br />
+ 
+
+  
+<br />
+
+
+
+ 
+  
+  
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
+-->
+
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=JustTheVenus&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br />
+
+
+<br />
+
+
+<!--
+</details>
+-->
+
+<!--
+<details>
+   <summary>:zap: Languages and Tools</summary>
+ -->
